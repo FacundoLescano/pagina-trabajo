@@ -1,0 +1,26 @@
+{
+  "name": "pagina-trabajo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacundoLescano/pagina-trabajo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FacundoLescano/pagina-trabajo/issues"
+  },
+  "homepage": "https://github.com/FacundoLescano/pagina-trabajo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "react-engine": "^4.5.1"
+  }
+}
